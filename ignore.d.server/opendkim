@@ -1,3 +1,3 @@
 ^\w{3} [ :[:digit:]]{11} [._[:alnum:]-]+ opendkim\[[[:digit:]]+\]: .+: message has signatures from .+, .+$
 ^\w{3} [ :[:digit:]]{11} [._[:alnum:]-]+ opendkim\[[[:digit:]]+\]: \(.+\): syntax error: missing parameter(s) in signature data$
-
+^\w{3} [ :[:digit:]]{11} [._[:alnum:]-]+ opendkim\[[[:digit:]]+\]: .+: failed to parse authentication-results: header*
