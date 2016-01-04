@@ -1,0 +1,1 @@
+^\w{3} [ :[:digit:]]{11} [._[:alnum:]-]+ ntpd\[[[:digit:]]+\]: reply from [.0-9]{7,15}: not synced, next query [.0-9]+s$
